@@ -19,7 +19,15 @@
 - [TED](https://www.ted.com/)
 
 ## 學習資料
+### 基礎
 - [賴世雄教材入門篇](https://www.bilibili.com/video/av43084308/)
 - [奶爸英語教室](http://site.douban.com/195274/)
 - [漏屋：外語學習的真實方法及誤區分析](http://blog.jobbole.com/21279/)
 - [李笑來 人人都能學英語](https://www.gitbook.com/book/xiaolai/everyone-can-use-english/details)
+
+### 聽力
+- [瑞克和莫蒂 第一季](http://8maple.ru/223686/)
+- [瑞克和莫蒂 第二季](http://us.bilibili.to/120641/)
+- [瑞克和莫蒂 第三季](http://8maple.ru/223696/)
+
+如果聼不明白，看英文字幕，並記下來這個聲音等於這個意思，做到聽音理解，中英文字幕只是輔助理解。
