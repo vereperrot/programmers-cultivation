@@ -4,7 +4,7 @@
 - [HackerRank](https://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
 
-如果不確定你要做什麼專題，可以參考一下這篇文章[every-time-you-build-a-to-do-list-app-a-puppy-dies](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)。
+如果不確定你要做什麼專題，可以參考一下這篇文章[每次你建立一個待辦列表app](every-time-you-build-a-to-do-list.md)。
 
 在你開始專案前，需問自己一些問題:
 - 在最終的產品客戶希望有什麼？ 
