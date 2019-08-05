@@ -10,5 +10,8 @@
 ### Dropbox
 免費容量2.75GB。
 
+### [MEGA](https://mega.nz/pro/mdlWkZpS)
+免費容量50GB，有同步客戶端可以下載，不能線上編輯檔案，可以線上看pdf檔案。
+
 ### BitTorrent Sync
 [BitTorrent Sync](http://www.appinn.com/bittorrent-sync/) 可以自己建立一個p2p的同步服務，就不用依賴雲端硬碟，能避開雲端硬碟隨時可能收掉的風險。
