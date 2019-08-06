@@ -1,4 +1,5 @@
 # 程序設計師的修養
+[贊助作者](https://paypal.me/vereperrot/10USD)，感謝支持。
 
 ## 基礎知識
 - [命名規範](naming-rules.md)
