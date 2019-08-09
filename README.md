@@ -13,3 +13,4 @@
 ## 提高效率
 - [善用搜尋](use-search-engine.md)
 - [文件管理](file-manage.md)
+- [活用書籤](use-bookmarks.md)
