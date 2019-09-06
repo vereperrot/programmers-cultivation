@@ -2,6 +2,16 @@
 ## 介紹
 egrep用來搜尋檔案內是否包含某字串，本文主要做Windows下面的egrep使用介紹。可以在sourceforge[下載unxutils](https://sourceforge.net/projects/unxutils/)。
 
+## 安裝
+安裝UnxUtils，下面的安裝步驟在Windows10專業版中進行
+1. 解壓縮UnxUtils.zip。
+2. 將資料夾UnxUtils移動到D:\Program Files。
+3. 我的電腦圖示按右鍵，選擇屬性，開啟系統視窗。
+4. 點擊進階系統設定。
+5. 按**環境變數...**按鈕。
+6. 編輯Path系統變數，新增D:\Program Files\UnxUtils\usr\local\wbin。
+7. 之後在命令提示行中就可下egrep指令。
+
 ## 教學
 
 egrep指令格式為Usage: **egrep [OPTION]... PATTERN [FILE] ...**，PATTERN是要輸入正規表示法的地方，**...**表示可以有多個[OPTION]或[FILE]。可以下**egrep --help**取得更詳細的指令說明。
