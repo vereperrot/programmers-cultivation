@@ -44,5 +44,6 @@ PATTERN 要包含空白字元，如按下面的指令下會有錯誤。它會將
     
 ## 參考
 - [Mastering Regular Expressions Jeffrey E. F. Friedl - 深入介紹正規表示法的觀念](https://www.amazon.com/Mastering-Regular-Expressions-Jeffrey-Friedl/dp/0596528124)
+    - [Jeffrey-Friedl web site](http://regex.info/)
 
 [贊助作者](https://paypal.me/vereperrot/10USD)，感謝支持。
